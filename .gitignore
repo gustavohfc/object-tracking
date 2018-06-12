@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+PD8-files/*
+!PD8-files/.gitkeep
